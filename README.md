@@ -20,6 +20,15 @@ This spam mail classifier uses the Naive Bayes Classifier algorithm to classify 
 
 When an email is entered into the application, the text is preprocessed in the same way as the training dataset. The classifier then calculates the probability that the email is spam or ham using the Naive Bayes algorithm. If the probability of spam is higher than the probability of ham, the email is classified as spam.
 
+![image](https://user-images.githubusercontent.com/99868658/236772350-f0410d71-e9b1-4e2f-838f-e6ffee6c30b2.png)
+
+![image](https://user-images.githubusercontent.com/99868658/236772964-9059a65e-6d72-49a0-a51b-f45914ba39fb.png)
+
+![image](https://user-images.githubusercontent.com/99868658/236773108-d4f38db1-e323-4590-99d3-a8d26c558b17.png)
+
+
+
+
 ## Contributing
 Contributions to this project are welcome. If you find a bug or have a suggestion for a new feature, please open an issue or submit a pull request.
 
